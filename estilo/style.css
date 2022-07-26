@@ -18,7 +18,9 @@
 html, body {
     font-family: var(--fonte1);
     min-height: 100%;
-    background-color: rgb(148, 147, 147);
+    background-color: rgb(198, 173, 207);
+    max-width: 800px;
+    margin: auto;
 }
 
 header {
@@ -56,6 +58,7 @@ section {
     padding-bottom: 10vh;
     padding-left: 30px;
     line-height: 2em;
+    
 }
 
 section.normal {
